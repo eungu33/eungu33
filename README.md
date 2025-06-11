@@ -6,14 +6,10 @@ While I'm not overly sensitive, I strive to maintain a sharp and observant persp
 
 🌱 Interests
 - Computer Vision
-- 
-Object detection, image segmentation, visual recognition, real-world applications
+  - Object detection, image segmentation, visual recognition, real-world applications
 - Machine Learning & Deep Learning
-- 
-Model development, neural networks, transfer learning, generative models
+  - Model development, neural networks, transfer learning, generative models
 - Data Analysis & Planning
-- 
-Data-driven decision making, exploratory data analysis (EDA), insight generation, business & system planning
+  - Data-driven decision making, exploratory data analysis (EDA), insight generation, business & system planning
 - AI Product Planning
-- 
-AI service concept design, feature planning, usability-oriented development strategy
+  - AI service concept design, feature planning, usability-oriented development strategy
